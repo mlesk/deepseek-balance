@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "type": "swift",
+      "request": "launch",
+      "args": [],
+      "cwd": "${workspaceFolder:deepseek-balance}",
+      "name": "Debug DeepseekBalance",
+      "target": "DeepseekBalance",
+      "configuration": "debug",
+      "preLaunchTask": "swift: Build Debug DeepseekBalance"
+    },
+    {
+      "type": "swift",
+      "request": "launch",
+      "args": [],
+      "cwd": "${workspaceFolder:deepseek-balance}",
+      "name": "Release DeepseekBalance",
+      "target": "DeepseekBalance",
+      "configuration": "release",
+      "preLaunchTask": "swift: Build Release DeepseekBalance"
+    }
+  ]
+}
