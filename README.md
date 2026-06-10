@@ -116,4 +116,4 @@ Sources/
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+Unlicense — see [LICENSE](LICENSE).
